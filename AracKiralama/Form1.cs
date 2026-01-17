@@ -16,5 +16,10 @@ namespace AracKiralama
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Console.Write("Merhaba Dünya");
+        }
     }
 }
