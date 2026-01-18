@@ -21,6 +21,8 @@ namespace AracKiralama
         {
             Console.WriteLine("Merhaba");
             Console.WriteLine("SLM");
+            Console.WriteLine("SLM");
+
         }
     }
 }
