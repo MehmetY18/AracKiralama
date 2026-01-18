@@ -19,14 +19,7 @@ namespace AracKiralama
 
         private void Form1_Load(object sender, EventArgs e)
         {
-<<<<<<< Updated upstream
-            
-=======
-            Console.WriteLine("Merhaba");
-            Console.WriteLine("SLM");
-            Console.WriteLine("SLM");
-            Console.WriteLine("ÇANKIRI18");
->>>>>>> Stashed changes
+
         }
     }
 }
